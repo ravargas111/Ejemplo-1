@@ -22,7 +22,7 @@ public class PruebaGitHub extends Application {
     @Override
     public void start(Stage primaryStage) {
         Button btn = new Button();
-        btn.setText("Rama 2 Orig");
+        btn.setText("Rama 2 clon");
         btn.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
