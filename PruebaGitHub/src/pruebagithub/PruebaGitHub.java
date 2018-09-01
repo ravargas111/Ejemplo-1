@@ -23,6 +23,7 @@ public class PruebaGitHub extends Application {
     public void start(Stage primaryStage) {
         Button btn = new Button();
         btn.setText("cambio");
+<<<<<<< HEAD
         System.out.println("nueva 1");
 >>>>>>> 999d265bbe1c36344e300ed05061cf1e9e3a9495
         btn.setOnAction(new EventHandler<ActionEvent>() {
